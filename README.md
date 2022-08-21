@@ -19,6 +19,6 @@ A simple lines of Python code that will follow people on Instagram automatically
 4. Enter in the console: ```py follow.py``` and wait when all bots will follow the target.
 
 #### Using this script you may get such message:
-#####```[username] already follows "target"``` if this bot with ```username``` followed the ```target``` before.
-#####```[username] successfully follow "target"``` if bot successfully followed ```target``` using this script.
-#####```[username] didnt follow "target"``` if something went wrong. Inscrease delay time between all actions.
+####```[username] already follows "target"``` if this bot with ```username``` followed the ```target``` before.
+####```[username] successfully follow "target"``` if bot successfully followed ```target``` using this script.
+####```[username] didnt follow "target"``` if something went wrong. Inscrease delay time between all actions.
